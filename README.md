@@ -1,8 +1,6 @@
 # guestbook 실습 - 한석일
 
-사용 기술
-<li
-  <ul> Spring Boot </ul>
-  <ul> JPA </ul>
-  <ul> Thymeleaf </ul>
-/>
+<h3>사용 기술</h3>
+<li> Spring Boot </li>
+<li> JPA </li>
+<li> Thymeleaf </li>
