@@ -20,7 +20,7 @@ public class GuestbookServiceTests {
         GuestbookDTO guestbookDTO = GuestbookDTO.builder()
                 .title("Test Title....")
                 .content("Test Content...")
-                .writer("user0")
+                .writer("user1")
                 .build();
 
         System.out.println(guestbookService.register(guestbookDTO));
